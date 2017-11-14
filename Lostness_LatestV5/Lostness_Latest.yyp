@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "3dd73250-123d-4037-bd7f-5608199ee069",
+            "Value": {
+                "id": "f8126873-33f5-4bf8-9567-a44e929e9d41",
+                "resourcePath": "paths\\Kettu1_room9_path\\Kettu1_room9_path.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "3fd4aa75-455a-430a-a4f3-adc004d62312",
             "Value": {
                 "id": "3a5c06d6-f48d-442a-bd29-00b7f7475040",
@@ -927,14 +935,6 @@
             }
         },
         {
-            "Key": "90addd5e-04e0-4817-83a8-e7acf51cdb71",
-            "Value": {
-                "id": "d2c931f7-b654-4121-a66d-7d2541d68dc9",
-                "resourcePath": "paths\\Room9_enemy_2\\Room9_enemy_2.yy",
-                "resourceType": "GMPath"
-            }
-        },
-        {
             "Key": "93346f84-51bd-4a5c-928f-8fe0f28b4735",
             "Value": {
                 "id": "a63fe358-371c-46f2-8cc5-d5b8516b5c85",
@@ -980,6 +980,14 @@
                 "id": "350ab10c-6978-4875-baf8-6780b1651fe5",
                 "resourcePath": "objects\\obj_noKey\\obj_noKey.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9dcabf10-65c1-4ca8-b110-70d27c53ef28",
+            "Value": {
+                "id": "078739cc-af1c-4f49-a92c-11963374dc4e",
+                "resourcePath": "paths\\Kettu2_room9_path\\Kettu2_room9_path.yy",
+                "resourceType": "GMPath"
             }
         },
         {
@@ -1412,14 +1420,6 @@
                 "id": "d675ed01-6be6-4996-8913-9250e22f3dd5",
                 "resourcePath": "sprites\\spr_restart\\spr_restart.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "f8ad34f2-8612-43ca-99fc-b34fe10b7bf9",
-            "Value": {
-                "id": "48bd4b97-a3f0-4ff4-9dc5-36ad7c28df96",
-                "resourcePath": "paths\\Room9_enemy_1\\Room9_enemy_1.yy",
-                "resourceType": "GMPath"
             }
         },
         {

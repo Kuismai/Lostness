@@ -2,6 +2,6 @@
 
 room_goto(GameOver);
 //alarm[2] = 39;
-audio_stop_sound(LevelMusic01);
+audio_stop_all();
 
 //room_restart();
