@@ -1,0 +1,1 @@
+path_start(Room9_enemy_2, SPD, path_action_restart, 0);

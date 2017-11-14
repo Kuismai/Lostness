@@ -927,6 +927,14 @@
             }
         },
         {
+            "Key": "90addd5e-04e0-4817-83a8-e7acf51cdb71",
+            "Value": {
+                "id": "d2c931f7-b654-4121-a66d-7d2541d68dc9",
+                "resourcePath": "paths\\Room9_enemy_2\\Room9_enemy_2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "93346f84-51bd-4a5c-928f-8fe0f28b4735",
             "Value": {
                 "id": "a63fe358-371c-46f2-8cc5-d5b8516b5c85",
@@ -1410,7 +1418,7 @@
             "Key": "f8ad34f2-8612-43ca-99fc-b34fe10b7bf9",
             "Value": {
                 "id": "48bd4b97-a3f0-4ff4-9dc5-36ad7c28df96",
-                "resourcePath": "paths\\Test\\Test.yy",
+                "resourcePath": "paths\\Room9_enemy_1\\Room9_enemy_1.yy",
                 "resourceType": "GMPath"
             }
         },
