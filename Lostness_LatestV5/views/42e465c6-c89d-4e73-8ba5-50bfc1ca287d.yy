@@ -14,7 +14,7 @@
         "71d6ef5b-df48-4455-b73e-5aee99ee9377"
     ],
     "filterType": "GMSprite",
-    "folderName": "enemy1",
+    "folderName": "Crow",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

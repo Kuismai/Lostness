@@ -10,7 +10,7 @@
         "fcf3bfb4-9a28-4edf-9143-a02816835822"
     ],
     "filterType": "GMSprite",
-    "folderName": "enemy2",
+    "folderName": "Fox",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

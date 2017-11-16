@@ -13,6 +13,8 @@ global.roomcamefrom = room;
 
 room_persistent = false;
 
+depth = -500;
+
 
 
 

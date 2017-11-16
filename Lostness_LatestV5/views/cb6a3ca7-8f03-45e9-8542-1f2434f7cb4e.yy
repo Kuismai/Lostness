@@ -6,7 +6,8 @@
     "children": [
         "087d590c-c67f-4969-9bc0-1bcb0908ca02",
         "42e465c6-c89d-4e73-8ba5-50bfc1ca287d",
-        "27d21df0-cfcd-4907-a98b-8b2bda0e3e77"
+        "27d21df0-cfcd-4907-a98b-8b2bda0e3e77",
+        "2c9f2c09-18a3-4884-875b-94089dc76ce5"
     ],
     "filterType": "GMSprite",
     "folderName": "Characters",
