@@ -35,8 +35,8 @@
             "id": "0830e7ef-e8f9-4381-9e63-ec329fd2ad0d",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 942,
-            "y": 1165,
+            "x": 979,
+            "y": 1159,
             "speed": 100
         }
     ],
