@@ -703,6 +703,14 @@
             }
         },
         {
+            "Key": "615874a8-a5e9-48c3-96e1-f9f2158caedc",
+            "Value": {
+                "id": "ceb85030-df44-4278-bf32-b24985f42ee7",
+                "resourcePath": "sprites\\spr_door_animated\\spr_door_animated.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "61a26ad9-d358-4d1c-8f93-3f6ff8610440",
             "Value": {
                 "id": "dadbdedd-a611-4f23-8ef9-f13e5c5ab33e",

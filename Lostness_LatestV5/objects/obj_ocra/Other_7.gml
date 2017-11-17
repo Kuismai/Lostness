@@ -1,4 +1,5 @@
-if (image_index = 8)
+/* (image_index = 7)
 {
-	image_speed=0;
+	obj_ocra.image_index = 7 image_speed = 0;
 }
+{
