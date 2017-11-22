@@ -14,4 +14,3 @@ if (global.hasKey == true)
 					instance_destroy(obj_key2);
 				}
 }
-
