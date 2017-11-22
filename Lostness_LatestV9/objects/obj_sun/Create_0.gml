@@ -1,0 +1,1 @@
+sunTimer = 0;
