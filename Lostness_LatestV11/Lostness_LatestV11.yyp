@@ -1666,7 +1666,7 @@
             "Key": "e56bdb6c-0070-4e00-949f-54b3f698b6ea",
             "Value": {
                 "id": "fe499fff-329b-4500-9799-9e8d4c9b77c5",
-                "resourcePath": "rooms\\room9\\room9.yy",
+                "resourcePath": "rooms\\Tutorial\\Tutorial.yy",
                 "resourceType": "GMRoom"
             }
         },
