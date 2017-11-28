@@ -343,6 +343,14 @@
             }
         },
         {
+            "Key": "2a774b3f-3632-4a2c-ab37-1acec3de5b45",
+            "Value": {
+                "id": "fec7ab04-a078-4434-8417-d5186b042a8e",
+                "resourcePath": "sprites\\sprForest\\sprForest.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2a83dc79-5e09-4cd1-9bd4-8ab379f2c13f",
             "Value": {
                 "id": "befadcc8-2948-4d8f-9848-907c34f2baae",
@@ -1564,6 +1572,14 @@
                 "id": "9b88d331-c847-467d-9673-827c10ff6c7a",
                 "resourcePath": "paths\\Kettu1_room4_path\\Kettu1_room4_path.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "dae47ec4-6fcb-4f80-9f9c-509b2a48ea85",
+            "Value": {
+                "id": "145e17dd-8ce1-4337-afa1-60a55e81738f",
+                "resourcePath": "tilesets\\tilesetForest\\tilesetForest.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
