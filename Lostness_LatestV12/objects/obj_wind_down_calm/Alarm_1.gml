@@ -1,0 +1,1 @@
+instance_change(obj_wind_down_blow,1);
