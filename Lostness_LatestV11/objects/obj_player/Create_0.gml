@@ -21,4 +21,4 @@ depth = -500;
 	
 
 
-sprite_index = spr_pidleD;
+sprite_index = spr_player1_idleD;

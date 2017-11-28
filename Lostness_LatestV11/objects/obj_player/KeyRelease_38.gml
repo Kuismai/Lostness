@@ -1,1 +1,1 @@
-sprite_index = spr_pidleU;
+sprite_index = spr_player1_idleU;

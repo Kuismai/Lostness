@@ -1,7 +1,7 @@
 sprite_index = choose(spr_orcaD, spr_orcaU, spr_orcaR, spr_orcaL);
 randomize();
 
-myVision = instance_create_depth(x,y, 201, obj_vision);
+myVision = instance_create_depth(x,y, 201, obj_vision_E2);
 
 
 switch (sprite_index)

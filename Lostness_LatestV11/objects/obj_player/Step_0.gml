@@ -6,7 +6,7 @@ if((keyboard_check(vk_right) && (place_free(x + collisionSpeed, y)) || keyboard_
 {
     x += walkSpeed;
 	// x = x + walkSpeed;
-	sprite_index = spr_playerR;
+	sprite_index = spr_player1_R;
 	
 	if(!audio_is_playing(Walk))
 	{
@@ -18,7 +18,7 @@ if((keyboard_check(vk_right) && (place_free(x + collisionSpeed, y)) || keyboard_
 if((keyboard_check(vk_left) && (place_free(x - collisionSpeed, y)) || keyboard_check(ord("A"))) && place_free(x - collisionSpeed, y))
 {
 	x -= walkSpeed;
-	sprite_index = spr_playerL;
+	sprite_index = spr_player1_L;
 	
 	if(!audio_is_playing(Walk))
 	{
@@ -29,7 +29,7 @@ if((keyboard_check(vk_left) && (place_free(x - collisionSpeed, y)) || keyboard_c
 if((keyboard_check(vk_up) && (place_free(x, y - collisionSpeed)) || keyboard_check(ord("W"))) && place_free(x, y - collisionSpeed))
 {
 	y -= walkSpeed;
-	sprite_index = spr_playerU;
+	sprite_index = spr_player1_U;
 	
 	if(!audio_is_playing(Walk))
 	{
@@ -40,7 +40,7 @@ if((keyboard_check(vk_up) && (place_free(x, y - collisionSpeed)) || keyboard_che
 if((keyboard_check(vk_down) && (place_free(x, y + collisionSpeed)) || keyboard_check(ord("S"))) && place_free(x, y + collisionSpeed))
 {
 	y += walkSpeed;
-	sprite_index = spr_playerD;
+	sprite_index = spr_player1_D;
 	
 	if(!audio_is_playing(Walk))
 	{
