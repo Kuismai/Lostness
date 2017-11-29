@@ -220,5 +220,5 @@
     "type": 0,
     "width": 64,
     "xorig": 33,
-    "yorig": 45
+    "yorig": 46
 }

@@ -11,7 +11,9 @@
         "0e7aee9c-a0f9-4d76-8e9e-2c2ba680c8a3",
         "e7dde576-2c97-4735-820f-76d7cdb237f6",
         "a509e4e7-4010-4d07-8a26-ab4001d431da",
-        "c7ed4d61-3d24-4fd8-83d3-24df76ec8ace"
+        "c7ed4d61-3d24-4fd8-83d3-24df76ec8ace",
+        "3866bdc7-9a4a-475b-9d51-21450e5d9e9a",
+        "a4d6bb6a-56c5-4351-a0ff-e7586f7e249a"
     ],
     "filterType": "GMObject",
     "folderName": "LeverDoor",

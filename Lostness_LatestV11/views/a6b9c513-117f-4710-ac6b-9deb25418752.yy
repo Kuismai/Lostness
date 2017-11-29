@@ -11,7 +11,8 @@
         "1db30c81-5a5b-4633-85d8-693722a67c79",
         "43f9dcaf-2184-4022-9eb2-3e7cc9991fa5",
         "c14b4ea2-757d-43e7-b517-6fe49b187d51",
-        "8ae93344-ac57-4835-bb4f-2e0a8e74cfef"
+        "8ae93344-ac57-4835-bb4f-2e0a8e74cfef",
+        "2dc5e77e-b26c-4d6e-87c2-851859f8d97d"
     ],
     "filterType": "GMObject",
     "folderName": "Wind",

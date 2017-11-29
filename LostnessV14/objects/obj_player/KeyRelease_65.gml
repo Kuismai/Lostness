@@ -1,4 +1,5 @@
-sprite_index = spr_pidleL;
+sprite_index = spr_player1_idleL;
+
 
 
 

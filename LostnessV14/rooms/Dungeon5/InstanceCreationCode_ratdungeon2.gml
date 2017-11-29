@@ -1,0 +1,1 @@
+path_start(RatPath2, SPD, path_action_restart, false);

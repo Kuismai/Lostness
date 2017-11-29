@@ -19,7 +19,7 @@ if(global.alerted == true) && (!enemy_alerted)
 			break;
 			
 		case spr_enemyRidle:
-			sprite_index = spr_enemyLalert;
+			sprite_index = spr_enemyRalert;
 			break;
 			
 		case spr_enemyLidle:
