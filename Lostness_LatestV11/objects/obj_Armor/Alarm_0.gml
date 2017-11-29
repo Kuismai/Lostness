@@ -1,7 +1,7 @@
 sprite_index = choose(spr_armorD, spr_armorU, spr_armorR, spr_armorL);
 randomize();
 
-myVision = instance_create_depth(x,y, 201, obj_vision_E2);
+myVision = instance_create_depth(x,y, -300, obj_vision_E2);
 
 
 switch (sprite_index)
