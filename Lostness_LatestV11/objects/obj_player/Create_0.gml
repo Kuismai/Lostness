@@ -4,7 +4,7 @@ collisionSpeed = walkSpeed + 2;
 player_speed = 7;
 
 onIce = false;
-
+terrain = 0;
 
 
 global.hasKey = false;
