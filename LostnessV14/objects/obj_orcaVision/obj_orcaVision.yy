@@ -1,0 +1,46 @@
+{
+    "id": "6af54944-238a-413d-a99c-0b1bd5f433e0",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_orcaVision",
+    "eventList": [
+        {
+            "id": "42922bb9-5bc1-493b-ab0e-94f505c788c7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "6af54944-238a-413d-a99c-0b1bd5f433e0"
+        },
+        {
+            "id": "2b30ed50-55d1-4c16-a493-d734ad935836",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "ba37fec0-1b5b-4443-8d6c-9cac13f2b1a2",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "6af54944-238a-413d-a99c-0b1bd5f433e0"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "solid": false,
+    "spriteId": "db21e90f-2064-4c84-9b7f-05781e0feec0",
+    "visible": true
+}
