@@ -719,6 +719,14 @@
             }
         },
         {
+            "Key": "35bf0f8f-5565-4d1d-b37a-900055886546",
+            "Value": {
+                "id": "8d82d3f0-6b52-49c0-8b53-2d1a1e3fa2cc",
+                "resourcePath": "objects\\obj_esnake\\obj_esnake.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "35c8fb4d-77a3-470b-be0d-57474c25828e",
             "Value": {
                 "id": "b18a1f60-37b2-4bde-80f9-0a7e42d51c7a",
