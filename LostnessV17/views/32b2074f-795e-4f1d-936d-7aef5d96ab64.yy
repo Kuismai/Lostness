@@ -4,7 +4,6 @@
     "mvc": "1.1",
     "name": "32b2074f-795e-4f1d-936d-7aef5d96ab64",
     "children": [
-        "ba37fec0-1b5b-4443-8d6c-9cac13f2b1a2",
         "00208ff9-9d50-40d3-b602-5dae83efdbbd",
         "eb021ff6-0cbf-4908-a1b8-3fef654accae",
         "9661b11a-b7a4-4d78-9984-5ffe5feebfce",
@@ -20,7 +19,8 @@
         "4019cb1a-6584-4e79-adbd-47c30b1079a2",
         "b387f96e-a7eb-401f-8796-b25fc7396cb9",
         "7935834a-c0dd-45c8-925c-4abb5938d676",
-        "90fce300-d6f1-4b00-bfe6-aff202178e8a"
+        "90fce300-d6f1-4b00-bfe6-aff202178e8a",
+        "4dcdf0e7-a19c-40c4-9643-fbe1a68a8776"
     ],
     "filterType": "GMObject",
     "folderName": "Characters",

@@ -5,16 +5,6 @@
     "name": "obj_wind_up_blow",
     "eventList": [
         {
-            "id": "68509d00-4552-4d01-9427-1a0d72dbaed9",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "ba37fec0-1b5b-4443-8d6c-9cac13f2b1a2",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "dd6fd55d-6c89-496b-8d6e-845475db12b3"
-        },
-        {
             "id": "a70d5984-9c5d-4a17-b134-272710abd8c8",
             "modelName": "GMEvent",
             "mvc": "1.0",

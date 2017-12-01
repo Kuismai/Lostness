@@ -5,16 +5,6 @@
     "name": "obj_Door",
     "eventList": [
         {
-            "id": "c9a053f9-1f93-4fa8-848f-afaf8fec12fa",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "ba37fec0-1b5b-4443-8d6c-9cac13f2b1a2",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "dc950b5b-2a44-42f8-a8b0-f363becd57c4"
-        },
-        {
             "id": "3a62d399-8de3-47e6-a94d-7116e97cdfb8",
             "modelName": "GMEvent",
             "mvc": "1.0",

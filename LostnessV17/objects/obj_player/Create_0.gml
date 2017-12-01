@@ -1,10 +1,12 @@
-walkSpeed = 10;
+walkSpeed = 5;
 
 collisionSpeed = walkSpeed + 2;
 
 //player_speed = 100;
 
 onIce = false;
+terrain = 0;
+
 
 global.restartCounter = 0;
 
@@ -18,12 +20,11 @@ room_persistent = false;
 
 depth = -500;
 
-script_execute(scr_pt);
-
 
 
 
 	
 
 
-sprite_index = spr_pidleD;
+sprite_index = spr_player1_idleD;
+

@@ -1,4 +1,4 @@
-myVision = instance_create_depth(x,y, 201, obj_vision);
+myVision = instance_create_depth(x,y, 201, obj_vision_E2);
 sprite_index = spr_enemyRidle;
 myVision.image_angle = 0;
 

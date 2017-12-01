@@ -1,1 +1,0 @@
-with obj_player room_goto(GameOver);

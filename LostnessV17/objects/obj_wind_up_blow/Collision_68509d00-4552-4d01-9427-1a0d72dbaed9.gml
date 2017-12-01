@@ -1,1 +1,0 @@
-with obj_player y = y - 8

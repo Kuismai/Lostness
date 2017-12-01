@@ -5,16 +5,6 @@
     "name": "obj_vision_E2",
     "eventList": [
         {
-            "id": "bd549934-0ccc-460f-ba48-a043eadd1ad2",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "ba37fec0-1b5b-4443-8d6c-9cac13f2b1a2",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "064c740b-b04e-4cf6-bbdb-005d1222a448"
-        },
-        {
             "id": "b7e0760c-3fec-4927-89fc-80bb2fdaa7b6",
             "modelName": "GMEvent",
             "mvc": "1.0",

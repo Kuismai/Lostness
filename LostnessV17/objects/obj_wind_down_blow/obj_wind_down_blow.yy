@@ -5,16 +5,6 @@
     "name": "obj_wind_down_blow",
     "eventList": [
         {
-            "id": "8bfacfb1-e37a-4400-8072-8695b7522121",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "ba37fec0-1b5b-4443-8d6c-9cac13f2b1a2",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "c8819448-2674-4069-b2fc-d7a81abec67f"
-        },
-        {
             "id": "cad2ce15-1b78-481f-843b-2885fe6d0b41",
             "modelName": "GMEvent",
             "mvc": "1.0",

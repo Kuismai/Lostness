@@ -5,16 +5,6 @@
     "name": "obj_wind_left_blow",
     "eventList": [
         {
-            "id": "d840228b-125f-4b85-a40e-6e2e5de6c9bb",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "ba37fec0-1b5b-4443-8d6c-9cac13f2b1a2",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "53619931-3067-427c-b34f-924a08358ec9"
-        },
-        {
             "id": "86d768e2-dad5-4794-a4aa-aaae1d1ace13",
             "modelName": "GMEvent",
             "mvc": "1.0",

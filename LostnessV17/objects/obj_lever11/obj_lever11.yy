@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_lever11",
     "eventList": [
-        {
-            "id": "00492b1b-d517-4a60-8ff7-0d81d2a30f1a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "ba37fec0-1b5b-4443-8d6c-9cac13f2b1a2",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "3866bdc7-9a4a-475b-9d51-21450e5d9e9a"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",

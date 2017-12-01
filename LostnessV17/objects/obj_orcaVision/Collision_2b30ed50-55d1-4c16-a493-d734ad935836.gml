@@ -1,1 +1,0 @@
-global.die = true;
