@@ -1,8 +1,8 @@
 {
-    "id": "05dfcfce-fc81-4b47-988c-0a25512a0871",
+    "id": "13004c16-daef-4818-9942-ca45a345759c",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "tiles_desert",
+    "name": "tilesDesert",
     "auto_tile_sets": [
         
     ],
