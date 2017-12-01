@@ -1,4 +1,4 @@
-sprite_index = spr_enemyDidle;
+sprite_index = spr_SpiderU;
 myVision = instance_create_depth(x,y, 201, obj_vision);
 myVision.image_angle = 270;
 
