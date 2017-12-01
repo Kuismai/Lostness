@@ -2007,6 +2007,14 @@
             }
         },
         {
+            "Key": "aecaf5de-6045-4018-8204-14dd6ba91e96",
+            "Value": {
+                "id": "d809f4f9-a34b-48b4-afe4-45df9f1de656",
+                "resourcePath": "objects\\obj_camera_screenshake\\obj_camera_screenshake.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "af206946-3f0c-4691-99b0-176ac5e53c15",
             "Value": {
                 "id": "798ca601-a64a-42f1-9d38-23f8ce2e2d71",
