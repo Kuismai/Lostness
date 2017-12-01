@@ -1,0 +1,96 @@
+//Movement
+
+//part_particles_create(global.ps, x, y, global.pt_laser, 10);
+
+
+
+
+
+if((keyboard_check(vk_right) && (place_free(x + collisionSpeed, y)) || keyboard_check(ord("D"))) && place_free(x + collisionSpeed, y))
+{
+    x += walkSpeed;
+	// x = x + walkSpeed;
+	sprite_index = spr_playerR;
+	
+if(!audio_is_playing(Walk)) && (!audio_is_playing(Mud))
+	{
+		audio_play_sound(Walk, 1, false);
+	}
+	
+	if(place_meeting(x, y, obj_mud)) && (!audio_is_playing(Mud))
+	{
+		audio_play_sound(Mud, 1, false);
+	}
+}
+
+if((keyboard_check(vk_left) && (place_free(x - collisionSpeed, y)) || keyboard_check(ord("A"))) && place_free(x - collisionSpeed, y))
+{
+	x -= walkSpeed;
+	sprite_index = spr_playerL;
+	
+	if(!audio_is_playing(Walk)) && (!audio_is_playing(Mud))
+	{
+		audio_play_sound(Walk, 1, false);
+	}
+	
+	if(place_meeting(x, y, obj_mud)) && (!audio_is_playing(Mud))
+	{
+		audio_play_sound(Mud, 1, false);
+	}
+}
+
+if((keyboard_check(vk_up) && (place_free(x, y - collisionSpeed)) || keyboard_check(ord("W"))) && place_free(x, y - collisionSpeed))
+{
+	y -= walkSpeed;
+	sprite_index = spr_playerU;
+	
+if(!audio_is_playing(Walk)) && (!audio_is_playing(Mud))
+	{
+		audio_play_sound(Walk, 1, false);
+	}
+	
+	if(place_meeting(x, y, obj_mud)) && (!audio_is_playing(Mud))
+	{
+		audio_play_sound(Mud, 1, false);
+	}
+}
+
+if((keyboard_check(vk_down) && (place_free(x, y + collisionSpeed)) || keyboard_check(ord("S"))) && place_free(x, y + collisionSpeed))
+{
+	y += walkSpeed;
+	sprite_index = spr_playerD;
+	
+	if(!audio_is_playing(Walk)) && (!audio_is_playing(Mud))
+	{
+		audio_play_sound(Walk, 1, false);
+	}
+	
+	if(place_meeting(x, y, obj_mud)) && (!audio_is_playing(Mud))
+	{
+		audio_play_sound(Mud, 1, false);
+	}	
+}
+
+
+
+if (keyboard_check(vk_lshift) && place_free(x, y + collisionSpeed))
+{
+	walkSpeed = 7;	
+}
+
+
+
+if(room_previous(PauseMenu)) && (keyboard_check_released(ord("R"))) && (global.restartCounter == 1)
+{
+	room_persistent = false;
+	room_restart();
+	global.restartCounter = 0;
+}
+
+
+else 
+{
+	walkSpeed = 10;
+}
+
+

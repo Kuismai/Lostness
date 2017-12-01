@@ -1,0 +1,1 @@
+path_start(Kettu1_room9_path, SPD, path_action_reverse, false);
