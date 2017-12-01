@@ -13,6 +13,17 @@ if position_meeting(x,y,obj_ice)
 			terrain = 0;
 		}
 
+if terrain == 1
+	{
+		walkSpeed = 10;
+	}
+	else
+		if terrain == 2
+		{
+			walkSpeed = 5;
+		}
+		else
+			walkSpeed = 7;
 
 if((keyboard_check(vk_right) && (place_free(x + collisionSpeed, y)) || keyboard_check(ord("D"))) && place_free(x + collisionSpeed, y))
 {
@@ -149,7 +160,7 @@ if(room_previous(PauseMenu)) && (keyboard_check_released(ord("R"))) && (global.r
 }
 
 
-else 
-{
-	walkSpeed = 5;
-}
+//else 
+//{
+//	walkSpeed = 5;
+//}
