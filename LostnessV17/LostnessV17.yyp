@@ -1295,6 +1295,14 @@
             }
         },
         {
+            "Key": "57891d41-00a0-4e3f-85b5-394ab27e8a66",
+            "Value": {
+                "id": "17b3f5b3-dc64-459c-8eb7-279559db6d27",
+                "resourcePath": "tilesets\\SwampTiles\\SwampTiles.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "58b1065e-897c-4b11-b72a-e26fde3fb7f2",
             "Value": {
                 "id": "bbe21610-85fb-4c55-8994-79e0967e8b0e",
@@ -1508,6 +1516,14 @@
                 "id": "f44a1518-b150-4733-afca-634c9b2c26a0",
                 "resourcePath": "views\\6c86c16f-bc6d-48ca-8344-147d5ed036db.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6d5ad14f-dfdb-410f-a254-1ca2c8e7c4f2",
+            "Value": {
+                "id": "77d17f75-79e7-498e-acce-a8ed95e70184",
+                "resourcePath": "sprites\\spr_swamptiles\\spr_swamptiles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2567,6 +2583,14 @@
             }
         },
         {
+            "Key": "da272edb-908c-4b2e-8489-96cb3115adc7",
+            "Value": {
+                "id": "4497c92a-b495-46f6-83cb-916c5e0e0b0f",
+                "resourcePath": "sprites\\swampplan\\swampplan.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "da2e1259-f1cf-4210-bae5-884556b06411",
             "Value": {
                 "id": "062a48d8-8a67-4514-bbe3-6dd8a5ea7554",
@@ -2764,6 +2788,14 @@
                 "id": "45c80639-e44d-4424-b46e-aa6a0505aab7",
                 "resourcePath": "objects\\obj_Door2\\obj_Door2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ea3183f7-3d29-4c91-9be6-3fcabdcb8f0a",
+            "Value": {
+                "id": "32456e31-983f-427d-9bc7-6805d3650962",
+                "resourcePath": "rooms\\room13\\room13.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
