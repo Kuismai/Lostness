@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "07f00904-b675-400d-a3dd-0c5bb33cf93b",
+            "Value": {
+                "id": "7803cc7e-b814-4aa0-a746-93b99311e8e6",
+                "resourcePath": "objects\\obj_esnake\\obj_esnake.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "08222007-e40c-4f20-af34-d63a3d4e5e19",
             "Value": {
                 "id": "4eed14ec-5505-4888-90fa-816e7f765aa9",
@@ -471,6 +479,14 @@
             }
         },
         {
+            "Key": "2352b65f-940f-43e3-b753-b3555a632d60",
+            "Value": {
+                "id": "be95b312-dea8-4bc8-a53b-953f5004818a",
+                "resourcePath": "paths\\SnakePath2\\SnakePath2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "235eba8b-9bf0-44cc-be7a-9b491fa5409e",
             "Value": {
                 "id": "0e6df4e2-a4dd-428f-b1b9-692985318e36",
@@ -735,14 +751,6 @@
             }
         },
         {
-            "Key": "35bf0f8f-5565-4d1d-b37a-900055886546",
-            "Value": {
-                "id": "8d82d3f0-6b52-49c0-8b53-2d1a1e3fa2cc",
-                "resourcePath": "objects\\obj_esnake\\obj_esnake.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "35c8fb4d-77a3-470b-be0d-57474c25828e",
             "Value": {
                 "id": "b18a1f60-37b2-4bde-80f9-0a7e42d51c7a",
@@ -975,6 +983,14 @@
             }
         },
         {
+            "Key": "43665dab-feab-4148-902c-fc68d15f1148",
+            "Value": {
+                "id": "dfb07c9c-c0dc-46d7-80f5-f0c2e24748ea",
+                "resourcePath": "paths\\SnakePath1\\SnakePath1.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "43a107b3-2c51-4e05-a09e-cf2390274966",
             "Value": {
                 "id": "86055c38-56cf-48e4-abbc-af84bdbb33fc",
@@ -987,6 +1003,14 @@
             "Value": {
                 "id": "d09a0f51-806f-493f-9695-de7d23d8f539",
                 "resourcePath": "sprites\\spr_orcaU\\spr_orcaU.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "43c0d1e2-834f-4e21-8367-fc2dd2485f42",
+            "Value": {
+                "id": "18e715df-554f-4389-86ee-251eecea5782",
+                "resourcePath": "sprites\\spr_desertleverR\\spr_desertleverR.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1271,6 +1295,14 @@
             }
         },
         {
+            "Key": "6474a868-e666-4724-9cac-85880b7ad128",
+            "Value": {
+                "id": "4fce66a8-a171-479b-a5c0-e8e7c74c0bce",
+                "resourcePath": "paths\\SnakePath3\\SnakePath3.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "64fffac6-5c84-461d-9a7d-437efd5dd275",
             "Value": {
                 "id": "7e48c9f0-8819-4eed-ab3c-296fdc8e3864",
@@ -1548,14 +1580,6 @@
                 "id": "987fde3d-3d95-4b28-bc09-4d3dd8d9eaa3",
                 "resourcePath": "sprites\\spr_littleBitBrokenIce\\spr_littleBitBrokenIce.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "7f368a23-f60f-4303-bebd-d1d18401d88d",
-            "Value": {
-                "id": "1f1f96a6-c494-4db0-8092-05bad7fd1130",
-                "resourcePath": "rooms\\roomDesert\\roomDesert.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -1884,6 +1908,14 @@
                 "id": "28e79602-d2f6-4d0a-8734-9ae436ac99f8",
                 "resourcePath": "objects\\obj_Door5\\obj_Door5.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a50489b4-9278-46c7-9b4d-dd07f78f4d38",
+            "Value": {
+                "id": "53ec0ca5-02d2-46eb-ae21-7c078db4fc9d",
+                "resourcePath": "sprites\\sprdesertdoor_animated\\sprdesertdoor_animated.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2367,6 +2399,14 @@
             }
         },
         {
+            "Key": "d82368f5-1208-4a36-9886-e2a70a8ffaa2",
+            "Value": {
+                "id": "f253b976-7891-4631-bcc8-8406a6e47f6a",
+                "resourcePath": "views\\7f368a23-f60f-4303-bebd-d1d18401d88d-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d9af845e-c95a-4fab-84d2-74e0113091a9",
             "Value": {
                 "id": "9b88d331-c847-467d-9673-827c10ff6c7a",
@@ -2396,6 +2436,14 @@
                 "id": "470db596-c44c-40a4-9084-a93f6053309d",
                 "resourcePath": "sprites\\spr_visionR\\spr_visionR.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dbecfd1d-c620-4480-a523-11c260d90218",
+            "Value": {
+                "id": "b1f7c220-8b19-4b43-b836-7a2bf1282db1",
+                "resourcePath": "rooms\\roomDesert1\\roomDesert1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

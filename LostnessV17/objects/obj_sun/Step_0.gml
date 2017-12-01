@@ -5,7 +5,7 @@ if(place_meeting(x,y, obj_player))
 	
 		if(global.sunTimer > 10)
 	{
-		obj_die.image_alpha += 0.017;
+		obj_die.image_alpha += 0.005;
 		
 			if(!audio_is_playing(Grilling))
 		{
@@ -16,7 +16,7 @@ if(place_meeting(x,y, obj_player))
 	
 	
 	
-		if(global.sunTimer >= 75)
+		if(global.sunTimer >= 270)
 	{
 		room_goto(GameOver);
 		obj_die.image_alpha = 0;
@@ -37,7 +37,7 @@ else
 	
 	if(obj_die.image_alpha >= 0)
 	{
-		obj_die.image_alpha -= 0.09;
+		obj_die.image_alpha -= 0.04;
 	}
 }
 
