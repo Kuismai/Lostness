@@ -12,7 +12,10 @@
         "8dafc742-1039-45bf-b070-4c0063f0f320",
         "0d02ea87-32d4-4fdd-862d-bc8f3f4eddc8",
         "0e7aee9c-a0f9-4d76-8e9e-2c2ba680c8a3",
-        "86aaacca-e978-4a1e-bfcd-83ef580cd582"
+        "86aaacca-e978-4a1e-bfcd-83ef580cd582",
+        "8a22fb40-35f1-4c5a-bb3e-68480a2f82b5",
+        "3866bdc7-9a4a-475b-9d51-21450e5d9e9a",
+        "725f7f4b-d4ca-41a4-8d75-bae98053ebf6"
     ],
     "filterType": "GMObject",
     "folderName": "Lever Door",

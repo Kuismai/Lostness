@@ -16,7 +16,7 @@ if(place_meeting(x, y, obj_player))
 	if(onIce >= 40)
 	{
 		sprite_index = spr_brokenIce;
-		obj_breakingIce.solid = true;
+		solid = true;
 		if(!audio_is_playing(FallingToWater)) && (audioTimer == 40)
 		{
 			audio_play_sound(FallingToWater, 1, false);
