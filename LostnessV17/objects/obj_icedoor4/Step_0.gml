@@ -1,14 +1,9 @@
-if(locked == false)
-{
-	if place_meeting(x,y, obj_player)
-	{
-	sprite_index = spr_icedoor1
-		if image_index = 6
+/// @description Insert description here
+// You can write your code in this editor
+if image_index == 7
 			{
 				audio_play_sound(DoorOpen, 1, false);
 				instance_destroy();
+				//image_speed = 0;
+				//solid = false;
 			}
-	with obj_icekey4
-	{instance_destroy();}
-	}
-	}

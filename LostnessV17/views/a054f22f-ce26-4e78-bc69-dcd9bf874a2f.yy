@@ -22,7 +22,13 @@
         "b8487e50-1fb6-48a4-affe-c13e9262fdf7",
         "4134ce9c-0d05-4704-9424-2302bea97699",
         "7b8a63e0-b1b7-4371-a866-9f4afbca074f",
-        "8d9c3777-b2e9-4dd7-bb80-7c447af394be"
+        "8d9c3777-b2e9-4dd7-bb80-7c447af394be",
+        "2e857990-f404-45ae-9060-b4f59d1b8db5",
+        "c65e6cdd-7ab3-4468-8d07-006d7442dc5d",
+        "fd26ced0-97e3-4d5d-baf3-12e8c19a24ba",
+        "05d82a07-79c5-4ed7-b59f-8507a1e5a637",
+        "00a56708-44c7-4b7e-9050-e299dd722ee7",
+        "dfc1eed1-221f-4ed2-9e95-8dc12230aeef"
     ],
     "filterType": "GMPath",
     "folderName": "paths",
