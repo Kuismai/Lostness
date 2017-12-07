@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "176d1b63-a844-45ad-ab30-219427139902",
+            "Value": {
+                "id": "95c5ed92-363a-4ff1-92ad-fb4062df1eb4",
+                "resourcePath": "sprites\\sprite851\\sprite851.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "184417d2-9445-495e-a260-c07aae8934cb",
             "Value": {
                 "id": "25cb89b9-5000-4586-8674-7a9bf47d6488",
@@ -1671,6 +1679,14 @@
             }
         },
         {
+            "Key": "67e4e3bc-0276-413a-826d-3fd939febd57",
+            "Value": {
+                "id": "676f8aa4-1c6f-4b36-a145-84ba08beaf03",
+                "resourcePath": "rooms\\DungeonRoomColl\\DungeonRoomColl.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "687c4782-db6e-4336-bfe3-69e357651707",
             "Value": {
                 "id": "236526c9-f2ca-42c6-a4af-b42fe30be622",
@@ -2764,6 +2780,14 @@
                 "id": "05b8b322-6789-4fbc-a354-8b4bbcadb1e4",
                 "resourcePath": "sprites\\spr_icekey\\spr_icekey.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bdcef916-7c16-4bc5-ba38-54eac02e8cdb",
+            "Value": {
+                "id": "b009df33-3414-4b14-9dcb-4ff09b3f4836",
+                "resourcePath": "rooms\\ForestRoomColl\\ForestRoomColl.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
