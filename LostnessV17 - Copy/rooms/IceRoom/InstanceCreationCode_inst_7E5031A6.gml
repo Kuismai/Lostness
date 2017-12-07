@@ -1,0 +1,1 @@
+path_start(Ice6, SPD, path_action_reverse, false);
