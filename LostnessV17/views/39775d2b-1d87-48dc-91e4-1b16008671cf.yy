@@ -12,7 +12,8 @@
         "6f73a268-71a8-43b7-86ec-161238f304f9",
         "2fd5ee95-bf3d-41c6-8731-ae869ab1748b",
         "ded264aa-f3c9-4936-b8ac-d5e16861389f",
-        "4d373df8-539c-4f97-b9be-32d8725709ac"
+        "4d373df8-539c-4f97-b9be-32d8725709ac",
+        "4d94b830-cd88-44dd-b19e-5612f6ab1a66"
     ],
     "filterType": "GMObject",
     "folderName": "Colliders",
