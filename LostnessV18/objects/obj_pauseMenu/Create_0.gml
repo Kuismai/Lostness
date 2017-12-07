@@ -1,0 +1,1 @@
+global.restartCounter = 1;
