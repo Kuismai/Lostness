@@ -1,0 +1,1 @@
+instance_change(obj_wind_right_calm,1);
