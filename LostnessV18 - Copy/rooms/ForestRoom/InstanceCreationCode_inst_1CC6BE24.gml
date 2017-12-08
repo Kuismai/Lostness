@@ -1,1 +1,0 @@
-path_start(ForestPath1, -SPD, path_action_restart, true);

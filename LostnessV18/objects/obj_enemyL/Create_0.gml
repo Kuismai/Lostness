@@ -6,6 +6,6 @@ alarm [1] = alarmSpd;
 
 depth = 201;
 
-sound = audio_play_sound(SleepingCrow, 1, false);
+//sound = audio_play_sound(SleepingCrow, 1, false);
 
-//global.gain = 0;
+global.gain = 0;

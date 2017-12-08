@@ -1,1 +1,0 @@
-path_start(SwampPath1, SPD, path_action_reverse, false);

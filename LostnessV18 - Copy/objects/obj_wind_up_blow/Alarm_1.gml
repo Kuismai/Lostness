@@ -1,1 +1,0 @@
-instance_change(obj_wind_up_calm,1);

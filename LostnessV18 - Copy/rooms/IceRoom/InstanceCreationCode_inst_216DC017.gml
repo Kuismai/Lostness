@@ -1,1 +1,0 @@
-path_start(Ice1, SPD, path_action_restart, false);

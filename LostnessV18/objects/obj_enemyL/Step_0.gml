@@ -16,7 +16,5 @@ if(place_meeting(x, y, obj_player))
 }
 
 
-if(audio_is_playing(SleepingCrow))
-{
-	audio_sound_gain(SleepingCrow, global.gain, 0);
-}
+
+//audio_sound_gain(SleepingCrow, global.gain, 0);
