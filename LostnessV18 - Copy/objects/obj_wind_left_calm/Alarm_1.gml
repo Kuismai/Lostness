@@ -1,1 +1,0 @@
-instance_change(obj_wind_left_blow,1);

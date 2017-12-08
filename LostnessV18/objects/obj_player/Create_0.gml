@@ -21,10 +21,4 @@ room_persistent = false;
 depth = -500;
 
 
-
-
-	
-
-
 sprite_index = spr_player1_idleD;
-

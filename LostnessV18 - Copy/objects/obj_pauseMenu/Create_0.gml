@@ -1,1 +1,0 @@
-global.restartCounter = 1;

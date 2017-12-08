@@ -839,6 +839,14 @@
             }
         },
         {
+            "Key": "3176455d-a8ac-491d-ad8c-1c16ab07fc46",
+            "Value": {
+                "id": "c288e47d-10a5-4c6b-b7e7-f045809034cc",
+                "resourcePath": "objects\\obj_crow\\obj_crow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "317dd7d1-675a-41ab-bdc6-61da2e33f9a1",
             "Value": {
                 "id": "09ef6d0d-e254-472f-9031-21030476573b",
@@ -2295,6 +2303,14 @@
             }
         },
         {
+            "Key": "9c77cac5-4d4a-473f-9a6b-5817ad03a6c4",
+            "Value": {
+                "id": "ef5e2de7-e5fa-4e3b-9ede-b5b55d595158",
+                "resourcePath": "scripts\\scr_sleeping\\scr_sleeping.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "9ceb7081-7247-437e-90a9-515f12decf60",
             "Value": {
                 "id": "51631d0f-ae71-42a5-a9e7-866f5fc61159",
@@ -3495,6 +3511,14 @@
             }
         },
         {
+            "Key": "fa82672b-4cfa-44d2-a6b8-7abeaa728af2",
+            "Value": {
+                "id": "94e95479-d690-461d-bd5a-983c446a7a2f",
+                "resourcePath": "sounds\\SlidingOnIce\\SlidingOnIce.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "fb30d5bc-f8be-4666-8d92-7aee95b3ea62",
             "Value": {
                 "id": "fa386f1f-f83c-4ee9-aa82-8098d1a9c8a1",
@@ -3572,7 +3596,8 @@
         "a1627385-d3f3-4bd5-8264-86e08dec125e",
         "21d2fdea-5b70-4e41-967d-ee9ac37f4a46",
         "03fd6bfb-b31f-472e-95b3-6bef30fad409",
-        "24d14d33-926f-4cfb-ae82-3bf9a4de3a04"
+        "24d14d33-926f-4cfb-ae82-3bf9a4de3a04",
+        "9c77cac5-4d4a-473f-9a6b-5817ad03a6c4"
     ],
     "tutorial": ""
 }

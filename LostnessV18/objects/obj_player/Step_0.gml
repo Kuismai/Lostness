@@ -1,19 +1,8 @@
-
-var distance = distance_to_object(obj_enemyL);
-global.gain = 50 / distance;
-
-if(global.gain > 0.2)
-{
-	global.gain = 0.2;
-}
-
-if(distance > 400)
-{
-	audio_sound_gain(SleepingCrow, 0, 0);
-}
+nearest_crow = instance_nearest(x, y, obj_crow);
 
 
-
+var i = distance_to_object(obj_crow) / 400;
+audio_sound_gain(SleepingCrow, (1 - i) * 0.2 , 0);
 
 
 
