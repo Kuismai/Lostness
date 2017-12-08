@@ -6,6 +6,7 @@ collisionSpeed = walkSpeed + 2;
 
 onIce = false;
 terrain = 0;
+caught = false;
 
 
 global.restartCounter = 0;

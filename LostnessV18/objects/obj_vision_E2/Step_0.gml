@@ -23,9 +23,9 @@
 
 switch (direction div 90)
 {
-	case 0: sprite_index = spr_visionR_E2; break;
-	case 1: sprite_index = spr_visionU_E2; break;
-	case 2: sprite_index = spr_visionL_E2; break;
-	case 3: sprite_index = spr_visionD_E2; break;
+	case 0: sprite_index = spr_vision1R; break;
+	case 1: sprite_index = spr_vision1U; break;
+	case 2: sprite_index = spr_vision1L; break;
+	case 3: sprite_index = spr_vision1D; break;
 }
 

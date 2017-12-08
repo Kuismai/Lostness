@@ -191,18 +191,18 @@
             }
         },
         {
-            "Key": "08f1c812-f94a-4aac-9136-4445794557fb",
-            "Value": {
-                "id": "fa942cbd-d8cf-4e1c-92e5-4390a9d1d4ee",
-                "resourcePath": "sprites\\spr_knightAttackL\\spr_knightAttackL.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "09d68c10-701c-4796-a829-33cc1eb443f4",
             "Value": {
                 "id": "77bc3423-a90a-4d99-ab1e-b3327d891300",
                 "resourcePath": "sprites\\spr_noKey\\spr_noKey.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0a13843a-513e-4a24-b0e2-cd51f10f9eef",
+            "Value": {
+                "id": "1b9a65e7-88c2-492e-84a7-2650e9a476e1",
+                "resourcePath": "sprites\\spr_knightAttackR\\spr_knightAttackR.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -615,6 +615,14 @@
             }
         },
         {
+            "Key": "23bece35-b946-4721-bd1f-1cb709d7cd4d",
+            "Value": {
+                "id": "9302c5ea-9d99-4091-a751-cd3548d9c92f",
+                "resourcePath": "sprites\\spr_vision1R\\spr_vision1R.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "24d14d33-926f-4cfb-ae82-3bf9a4de3a04",
             "Value": {
                 "id": "b06ce45c-ade8-4ddd-95b6-0feb8c062fce",
@@ -683,14 +691,6 @@
             "Value": {
                 "id": "5f828799-06df-493b-9c9a-e49009b18de2",
                 "resourcePath": "sprites\\spr_player1_idleD\\spr_player1_idleD.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "29389902-729a-4316-9ae3-9d19289647e9",
-            "Value": {
-                "id": "33cd6690-ed19-44f3-8712-edb443429d88",
-                "resourcePath": "sprites\\spr_knightAttackR\\spr_knightAttackR.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1087,14 +1087,6 @@
             }
         },
         {
-            "Key": "3de337da-cc06-43aa-af9e-f676df607e54",
-            "Value": {
-                "id": "d4a341ce-7141-4592-8c19-99df8f39516b",
-                "resourcePath": "sprites\\spr_knightIdle\\spr_knightIdle.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3f64fa1f-1a0c-4cdc-9f72-8842d5b2f88f",
             "Value": {
                 "id": "b48ce97a-1daa-4216-beda-cfa4da494371",
@@ -1252,14 +1244,6 @@
                 "id": "2ef89e81-db4f-4d3c-9c26-b9852698f5c0",
                 "resourcePath": "views\\45beb6f1-f5ae-45aa-8339-677ccfefcac6.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "467fab40-3070-4d58-9888-f6ffabd5398c",
-            "Value": {
-                "id": "4a749ffc-b776-417e-8969-7ffd742d01be",
-                "resourcePath": "sprites\\spr_knightAttackD\\spr_knightAttackD.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1431,6 +1415,14 @@
             }
         },
         {
+            "Key": "508dd06d-f854-402a-b854-6056a53d762e",
+            "Value": {
+                "id": "ddd680ab-6107-4bda-a392-e32b91fc8944",
+                "resourcePath": "sprites\\spr_vision1D\\spr_vision1D.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5095081c-69e3-4e54-bbc9-b797f7b8de80",
             "Value": {
                 "id": "06a16935-d780-48fe-b429-4dec013fdb31",
@@ -1556,6 +1548,14 @@
                 "id": "0d42fb76-4b01-4eef-a5bf-063e8ec2816f",
                 "resourcePath": "rooms\\GameOver\\GameOver.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "5f5a49b3-95a5-4173-aee6-78ccda60df3f",
+            "Value": {
+                "id": "731ba00f-ff2e-4a2d-85a3-343f064f0cd7",
+                "resourcePath": "sprites\\spr_vision1U\\spr_vision1U.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1940,6 +1940,14 @@
                 "id": "b6b82490-6543-42d8-b84c-a2c02e6045a8",
                 "resourcePath": "sounds\\MenuSound\\MenuSound.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "76632f80-5529-479c-9da8-3fe3828bdb8f",
+            "Value": {
+                "id": "4eaa0ef0-2b2d-4d4a-98a5-1a9f68eef862",
+                "resourcePath": "sprites\\spr_knightAttackL\\spr_knightAttackL.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2417,7 +2425,7 @@
         {
             "Key": "a2cf9b32-036e-410f-b9b1-18ab7a8064be",
             "Value": {
-                "id": "ee283158-6f2e-4f0a-ad38-e87f2f5f0465",
+                "id": "0d2e0b8e-4cd2-4bfd-8125-e711360b1921",
                 "resourcePath": "sprites\\spr_knightIdleD\\spr_knightIdleD.yy",
                 "resourceType": "GMSprite"
             }
@@ -2753,7 +2761,7 @@
         {
             "Key": "b5535ccd-e921-4ea4-a5fb-e86a0491566d",
             "Value": {
-                "id": "add6eac0-1fef-4c9d-9bc9-d79efff497c5",
+                "id": "a251603a-3d8c-4839-bf12-6dfe24ce9c14",
                 "resourcePath": "sprites\\spr_knightIdleU\\spr_knightIdleU.yy",
                 "resourceType": "GMSprite"
             }
@@ -2859,6 +2867,14 @@
             "Value": {
                 "id": "bec944a0-1431-43a7-85a0-e4d6ce31ed29",
                 "resourcePath": "sprites\\spr_icedoor_animated\\spr_icedoor_animated.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c18cfae9-5f0c-4f3b-8bbb-06f29de1a726",
+            "Value": {
+                "id": "3b2fdc29-617d-47eb-aedd-8e9125398e97",
+                "resourcePath": "sprites\\spr_vision1L\\spr_vision1L.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3660,6 +3676,14 @@
                 "id": "1599cce9-c77e-4c59-9684-ef508e194d81",
                 "resourcePath": "views\\89f9dd13-bf1c-42a7-a02d-0aad2fcbc6dc-room.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ff547d65-283c-43ba-a5a0-1b7a7ab7c9b0",
+            "Value": {
+                "id": "d2e851f2-51ae-44b8-b0fd-27564e3a8fc5",
+                "resourcePath": "sprites\\spr_knightAttackD\\spr_knightAttackD.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
