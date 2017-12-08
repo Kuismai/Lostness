@@ -5,5 +5,6 @@ if(global.Switched == true)
 			{
 				audio_play_sound(DoorOpen, 1, false);
 				instance_destroy();
+				instance_destroy(obj_key2);
 			}
 }
