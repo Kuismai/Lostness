@@ -1,1 +1,2 @@
 locked = true;
+opening = false;
