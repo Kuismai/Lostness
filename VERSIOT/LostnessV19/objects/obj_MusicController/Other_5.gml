@@ -1,6 +1,6 @@
 switch (room)
 {
-	case room0:
+	case Tutorial:
 	{
 		audio_stop_all();
 		break;

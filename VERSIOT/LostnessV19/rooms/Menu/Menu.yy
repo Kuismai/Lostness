@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "Menu",
     "id": "ddd11cde-3412-41ea-a53c-3dd80c395afe",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
