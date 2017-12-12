@@ -11,7 +11,11 @@
         "6bfbbf6a-9a99-4597-a0e1-b8eddd4fe5a4",
         "2f24e9eb-0941-4832-af94-97e6524b73d5",
         "93ae9b02-7047-47e1-a63f-78fc0fc7c2f4",
-        "f71cae1a-a317-4216-8397-2723e4324490"
+        "f71cae1a-a317-4216-8397-2723e4324490",
+        "07cf272b-bddc-4579-9ab8-1777af72874c",
+        "71e3cc93-b87b-4b4b-9a5a-21eadfb5f488",
+        "b38abe21-69de-4b05-a897-e67ec729c632",
+        "460379f5-b506-4be4-8e99-e31b779f90e8"
     ],
     "filterType": "GMSprite",
     "folderName": "Vision",
