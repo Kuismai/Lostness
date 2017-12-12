@@ -1,1 +1,1 @@
-path_start(SwampPath1, SPD, path_action_restart, false);
+path_start(SwampPath1, SPD, path_action_reverse, false);
