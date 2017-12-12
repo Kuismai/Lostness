@@ -6,6 +6,12 @@ switch (room)
 		break;
 	}
 	
+	case SwampRoomColl:
+	{
+		audio_stop_all();
+		break;
+	}
+	
 	
 	case DungeonRoomColl:
 	{
