@@ -3,7 +3,7 @@
     "modelName": "GMPath",
     "mvc": "1.0",
     "name": "SnakePath2",
-    "closed": false,
+    "closed": true,
     "hsnap": 0,
     "kind": 0,
     "points": [
@@ -12,7 +12,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 1324,
-            "y": 319.410583,
+            "y": 320,
             "speed": 100
         },
         {
@@ -36,7 +36,7 @@
             "modelName": "GMPathPoint",
             "mvc": "1.0",
             "x": 1826,
-            "y": 284.99353,
+            "y": 320,
             "speed": 100
         }
     ],
