@@ -911,6 +911,14 @@
             }
         },
         {
+            "Key": "32054fa0-40fb-4b94-81af-9f7aba5ac094",
+            "Value": {
+                "id": "7d798a42-9c6d-430b-bbb8-68e3634508c2",
+                "resourcePath": "sprites\\spr_panele1\\spr_panele1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3209cccb-951e-4ef6-9159-36007e5ff4f7",
             "Value": {
                 "id": "4c716cc9-3cf7-4ba1-9168-2a97064769d8",
@@ -1967,6 +1975,14 @@
             }
         },
         {
+            "Key": "7797e2d5-62d0-4738-b60b-d721655026e6",
+            "Value": {
+                "id": "6e25ee5e-a5f2-418d-98a9-9afa27596786",
+                "resourcePath": "sprites\\spr_panele5\\spr_panele5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7927b3cc-972b-4b85-8522-a306e4202143",
             "Value": {
                 "id": "ee1990d9-6ead-42b5-8764-3555390c5e6e",
@@ -2043,6 +2059,14 @@
             "Value": {
                 "id": "c64a6e01-c529-4254-b1e9-aa04515f7dfb",
                 "resourcePath": "sprites\\spr_SkipCutscene\\spr_SkipCutscene.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7ff53c05-b9db-4713-a36f-7363e0cea07a",
+            "Value": {
+                "id": "1f00349b-3f01-4c63-b96e-eac6b4d59979",
+                "resourcePath": "sprites\\spr_panele3\\spr_panele3.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2807,6 +2831,14 @@
             }
         },
         {
+            "Key": "b7feb41d-c6a1-41ca-8d29-f578c89cf14e",
+            "Value": {
+                "id": "2c9d644d-fec6-44e8-8ea7-c7bbd1482e3d",
+                "resourcePath": "sprites\\spr_panele4\\spr_panele4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b8487e50-1fb6-48a4-affe-c13e9262fdf7",
             "Value": {
                 "id": "ed58d013-b025-4148-91b6-3a9e44cb937a",
@@ -3164,6 +3196,14 @@
                 "id": "6c0fa1e6-de38-4b78-987a-ce5df36bf1f6",
                 "resourcePath": "paths\\ForestPath2\\ForestPath2.yy",
                 "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "d9259777-141a-4f3b-9dfd-cb4a9a5721f2",
+            "Value": {
+                "id": "8c3ba6ec-dfe0-4f0f-9e8a-32255a33df95",
+                "resourcePath": "sprites\\spr_panele2\\spr_panele2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
