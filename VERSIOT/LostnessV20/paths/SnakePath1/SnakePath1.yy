@@ -1,5 +1,5 @@
 {
-    "id": "43665dab-feab-4148-902c-fc68d15f1148",
+    "id": "0e78c731-c02e-447b-acee-1e513dcbf98f",
     "modelName": "GMPath",
     "mvc": "1.0",
     "name": "SnakePath1",
@@ -8,19 +8,19 @@
     "kind": 0,
     "points": [
         {
-            "id": "ca92eb2a-0736-4ca3-9129-1639089dc13e",
+            "id": "28f725fa-e33b-4019-a7c3-823b369bed0e",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 910.8311,
-            "y": 473.671265,
+            "x": 1137,
+            "y": 890,
             "speed": 100
         },
         {
-            "id": "85a477a6-6dd2-4921-ad8d-2e35dbbecb9c",
+            "id": "72a7cd79-2b17-4af0-b35e-a77c89c1ca3d",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 910.726868,
-            "y": 887.8371,
+            "x": 1137,
+            "y": 476,
             "speed": 100
         }
     ],

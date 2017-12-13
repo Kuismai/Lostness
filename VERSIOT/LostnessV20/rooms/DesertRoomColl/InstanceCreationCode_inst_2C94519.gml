@@ -1,1 +1,1 @@
-path_start(SnakePath3, SPD, path_action_reverse, false);
+path_start(SnakePath1, SPD, path_action_reverse, false);
