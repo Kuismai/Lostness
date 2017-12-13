@@ -6,7 +6,8 @@ if (global.hasKey == true)
 			if image_index = 6
 				{
 					audio_play_sound(DoorOpen, 1, false);
-					instance_destroy()
+					instance_destroy();
+					global.hasKey = false;
 				}
 		}
 			if(!instance_exists(obj_Door))
